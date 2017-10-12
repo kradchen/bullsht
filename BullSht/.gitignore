@@ -2,3 +2,6 @@
 .springBeans
 .settings/
 .classpath
+*.iml
+*.ipr
+*.iws
